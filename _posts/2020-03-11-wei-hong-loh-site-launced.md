@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Wei Hong Loh, MS GIS Candidate, Launches Site"
-date: 2014-04-30
+title: "Wei Hong Loh, MS GIS Candidate, First Github Hosted Site"
+date: 2020-03-11
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Hi, my name is Wei Hong Loh, currently pursuing my master degree in Geographic Information Science at Clark University and expect to 
+matriculate on May 2020. This is my first website and hope you like it!
